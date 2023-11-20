@@ -1,0 +1,32 @@
+@model ProductViewModel
+
+<div class="container">
+    <h2>Add Product</h2>
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="Name">Product Name:</label>
+            <input type="text" class="form-control" id="Name" name="Name" required>
+        </div>
+        <div class="form-group">
+            <label for="Price">Price:</label>
+            <input type="number" class="form-control" id="Price" name="Price" required>
+        </div>
+         <div class="form-group">
+        <label asp-for="ImageFile"></label>
+        <input asp-for="ImageFile" type="file" class="form-control" accept="image/*">
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+    <label asp-for="CategoryId"></label>
+    @Html.DropDownListFor(model => model.CategoryId, Model.Categories, "-- Select Category --", new { @class = "form-control" })
+    <span asp-validation-for="CategoryId" class="text-danger"></span>
+        <div class="form-group">
+            <label for="Description">Description:</label>
+            <textarea class="form-control" id="Description" name="Description" rows="3"></textarea>
+        </div>
+        <br>
+        <button type="submit" class="btn btn-primary">Add Product</button>
+    </form>
+</div>
+
+<a asp-action="Index">Back to List</a>

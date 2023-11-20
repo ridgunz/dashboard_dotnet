@@ -1,0 +1,1753 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/obj/Debug/net7.0/scopedcss/projectbundle/dashboard_dotnet.bundle.scp.css",
+      "PackagePath": "staticwebassets/dashboard_dotnet.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/images/1dde4ff3-d52d-4642-a70c-f2b37425df6b_hp.jpeg",
+      "PackagePath": "staticwebassets/images/1dde4ff3-d52d-4642-a70c-f2b37425df6b_hp.jpeg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/images/9409b64c-2262-48f6-b769-2875d3f206a4_iPhone-15-plus.jpg",
+      "PackagePath": "staticwebassets/images/9409b64c-2262-48f6-b769-2875d3f206a4_iPhone-15-plus.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/images/a5994a2d-0a4d-4b32-9471-68ddf529336f_iPhone-15-plus.jpg",
+      "PackagePath": "staticwebassets/images/a5994a2d-0a4d-4b32-9471-68ddf529336f_iPhone-15-plus.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/images/fffd6f7d-705e-4f67-9cce-6867e6a69627_hp.jpeg",
+      "PackagePath": "staticwebassets/images/fffd6f7d-705e-4f67-9cce-6867e6a69627_hp.jpeg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/404.html",
+      "PackagePath": "staticwebassets/template-bootstrap/404.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/basic-table.html",
+      "PackagePath": "staticwebassets/template-bootstrap/basic-table.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/blank.html",
+      "PackagePath": "staticwebassets/template-bootstrap/blank.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/template-bootstrap/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fa-brands.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fa-brands.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fa-brands.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fa-brands.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fa-regular.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fa-regular.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fa-regular.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fa-regular.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fa-solid.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fa-solid.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fa-solid.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fa-solid.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fontawesome-all.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fontawesome-all.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fontawesome-all.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fontawesome-all.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fontawesome.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fontawesome.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_animated.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_animated.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_bordered-pulled.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_bordered-pulled.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_core.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_core.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_fixed-width.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_fixed-width.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_icons.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_icons.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_larger.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_larger.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_list.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_list.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_mixins.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_mixins.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_rotated-flipped.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_rotated-flipped.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_screen-reader.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_screen-reader.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_stacked.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_stacked.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/_variables.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/_variables.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/fa-brands.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/fa-brands.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/fa-regular.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/fa-regular.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/fa-solid.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/fa-solid.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/less/fontawesome.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/less/fontawesome.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_animated.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_animated.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_bordered-pulled.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_bordered-pulled.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_core.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_fixed-width.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_fixed-width.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_icons.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_icons.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_larger.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_larger.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_list.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_list.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_mixins.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_rotated-flipped.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_rotated-flipped.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_screen-reader.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_screen-reader.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_stacked.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_stacked.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/_variables.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/_variables.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/fa-brands.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/fa-brands.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/fa-regular.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/fa-regular.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/fa-solid.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/fa-solid.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/scss/fontawesome.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/scss/fontawesome.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/font-awesome/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/css/material-design-iconic-font.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/css/material-design-iconic-font.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/css/materialdesignicons.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/css/materialdesignicons.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/fonts/themify.eot",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/fonts/themify.svg",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/fonts/themify.woff",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/ie7/ie7.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/ie7/ie7.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/ie7/ie7.js",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/ie7/ie7.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/themify-icons.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/themify-icons.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/themify-icons/themify-icons.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/themify-icons/themify-icons.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/css/weather-icons-core.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/css/weather-icons-core.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/css/weather-icons-variables.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/css/weather-icons-variables.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/css/weather-icons-wind.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/css/weather-icons-wind.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/css/weather-icons-wind.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/css/weather-icons-wind.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/css/weather-icons.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/css/weather-icons.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/css/weather-icons.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/css/weather-icons.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-beaufort.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-beaufort.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-day.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-day.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-direction.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-direction.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-misc.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-misc.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-moon.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-moon.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-neutral.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-neutral.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-night.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-night.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-time.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-time.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/css/variables-wind-names.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/css/variables-wind-names.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-beaufort.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-beaufort.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-day.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-day.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-direction.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-direction.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-misc.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-misc.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-moon-aliases.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-moon-aliases.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-moon.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-moon.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-neutral.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-neutral.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-night.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-night.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-time.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-time.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-wind-aliases.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-wind-aliases.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-wind-degrees.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-wind-degrees.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-wind.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-classes/classes-wind.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-beaufort.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-beaufort.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-day.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-day.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-direction.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-direction.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-misc.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-misc.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-moon.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-moon.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-neutral.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-neutral.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-night.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-night.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-time.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-time.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-wind-names.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/icon-variables/variables-wind-names.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/mappings/wi-forecast-io.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/mappings/wi-forecast-io.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/mappings/wi-owm.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/mappings/wi-owm.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/mappings/wi-wmo4680.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/mappings/wi-wmo4680.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/mappings/wi-yahoo.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/mappings/wi-yahoo.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/weather-icons-classes.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/weather-icons-classes.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/weather-icons-core.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/weather-icons-core.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/weather-icons-variables.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/weather-icons-variables.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/weather-icons-wind.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/weather-icons-wind.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/weather-icons-wind.min.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/weather-icons-wind.min.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/weather-icons.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/weather-icons.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/less/weather-icons.min.less",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/less/weather-icons.min.less"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-beaufort.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-beaufort.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-day.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-day.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-direction.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-direction.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-misc.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-misc.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-moon-aliases.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-moon-aliases.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-moon.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-moon.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-neutral.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-neutral.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-night.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-night.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-time.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-time.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-wind-aliases.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-wind-aliases.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-wind-degrees.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-wind-degrees.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-wind.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-classes/classes-wind.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-beaufort.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-beaufort.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-day.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-day.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-direction.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-direction.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-misc.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-misc.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-moon.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-moon.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-neutral.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-neutral.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-night.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-night.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-time.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-time.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-wind-names.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/icon-variables/variables-wind-names.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-forecast-io.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-forecast-io.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-owm.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-owm.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-wmo4680.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-wmo4680.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-yahoo.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/mappings/wi-yahoo.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/weather-icons-classes.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/weather-icons-classes.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/weather-icons-core.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/weather-icons-core.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/weather-icons-variables.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/weather-icons-variables.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/weather-icons-wind.min.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/weather-icons-wind.min.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/weather-icons-wind.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/weather-icons-wind.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/weather-icons.min.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/weather-icons.min.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/icons/weather-icons/sass/weather-icons.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/css/icons/weather-icons/sass/weather-icons.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/style.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/style.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/css/style.min.css",
+      "PackagePath": "staticwebassets/template-bootstrap/css/style.min.css"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/dashboard.html",
+      "PackagePath": "staticwebassets/template-bootstrap/dashboard.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/fontawesome.html",
+      "PackagePath": "staticwebassets/template-bootstrap/fontawesome.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/index.html",
+      "PackagePath": "staticwebassets/template-bootstrap/index.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/js/app-style-switcher.js",
+      "PackagePath": "staticwebassets/template-bootstrap/js/app-style-switcher.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/js/custom.js",
+      "PackagePath": "staticwebassets/template-bootstrap/js/custom.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/js/pages/dashboards/dashboard1.js",
+      "PackagePath": "staticwebassets/template-bootstrap/js/pages/dashboards/dashboard1.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/js/sidebarmenu.js",
+      "PackagePath": "staticwebassets/template-bootstrap/js/sidebarmenu.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/js/waves.js",
+      "PackagePath": "staticwebassets/template-bootstrap/js/waves.js"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/map-google.html",
+      "PackagePath": "staticwebassets/template-bootstrap/map-google.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/custom-select.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/custom-select.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/favicon.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/favicon.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/large/img1.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/large/img1.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/logo-icon.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/logo-icon.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/logo-light-icon.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/logo-light-icon.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/logo-light-text.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/logo-light-text.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/logo-text.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/logo-text.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/1-old.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/1-old.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/1.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/1.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/1.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/1.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/2.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/2.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/2.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/2.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/3.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/3.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/3.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/3.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/4.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/4.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/5.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/5.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/6.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/6.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/7.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/7.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/8.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/8.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/agent.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/agent.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/agent2.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/agent2.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/arijit.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/arijit.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/d1.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/d1.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/d2.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/d2.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/d3.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/d3.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/d4.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/d4.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/d5.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/d5.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/genu.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/genu.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/govinda.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/govinda.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/hritik.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/hritik.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/pawandeep.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/pawandeep.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/profile.png",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/profile.png"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/ritesh.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/ritesh.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/sonu.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/sonu.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/plugins/images/users/varun.jpg",
+      "PackagePath": "staticwebassets/template-bootstrap/plugins/images/users/varun.jpg"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/profile.html",
+      "PackagePath": "staticwebassets/template-bootstrap/profile.html"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/components.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/components.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/.DS_Store",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/.DS_Store"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/animation/animation.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/animation/animation.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/breadcrumb/breadcrumb.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/breadcrumb/breadcrumb.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/buttons/buttons.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/buttons/buttons.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/core.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/core.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/extra/extra.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/extra/extra.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/layout/layout.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/layout/layout.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/loader/spinner.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/loader/spinner.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/scafholdings/scafholding.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/scafholdings/scafholding.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/sidebar/sidebar.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/sidebar/sidebar.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/topbar/header.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/topbar/header.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/topbar/notify.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/topbar/notify.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/core/wave-effects/wave-effects.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/core/wave-effects/wave-effects.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/custom.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/custom.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/mixins/padding-margin.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/mixins/padding-margin.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/responsive.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/responsive.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/style.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/style.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/theme-colors/theme-colors.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/theme-colors/theme-colors.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/variable.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/variable.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/widgets/comments.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/widgets/comments.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/widgets/feeds.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/widgets/feeds.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/widgets/profile.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/widgets/profile.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/widgets/steamline.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/widgets/steamline.scss"
+    },
+    {
+      "Id": "/Users/ridgunz/Documents/dashboard_dotnet/wwwroot/template-bootstrap/scss/widgets/widgets.scss",
+      "PackagePath": "staticwebassets/template-bootstrap/scss/widgets/widgets.scss"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.dashboard_dotnet.props",
+      "PackagePath": "build\\dashboard_dotnet.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.dashboard_dotnet.props",
+      "PackagePath": "buildMultiTargeting\\dashboard_dotnet.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.dashboard_dotnet.props",
+      "PackagePath": "buildTransitive\\dashboard_dotnet.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.dashboard_dotnet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

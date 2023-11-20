@@ -1,0 +1,43 @@
+@model List<Users>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="white-box">
+            <h3 class="box-title">Users</h3>
+            <div class="table-responsive">
+                <table class="table text-nowrap">
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Role</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Count > 0)
+                        {
+                            @for (int i = 0; i < Model.Count; i++)
+                            {
+                                var Users = Model[i];
+                                <tr>
+                                    <td>@(i + 1)</td>
+                                    <td>@Users.Role</td>
+                                    <td>
+                                        <div class="btn-group">
+                                            <a class="btn btn-warning" style="margin-right: 8px;" asp-action="Edit" asp-route-id="@Users.Id">Edit</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="7">No Users available.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

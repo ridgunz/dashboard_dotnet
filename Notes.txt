@@ -1,0 +1,10 @@
+------------------------------------------------------------
+******************** Technical Test .Net ****************
+******************** By Muhammad Ridwan ********************
+------------------------------------------------------------
+
+Notes : 
+* Menggunakan .Net Core 7 dan Mysql
+* Jika migrate gagal import file sql yang terdapat pada folder Notes
+* Api berada pada controller ApiProductController
+* Jika ingin test API bisa import file postman yang terdapat pada folder Notes
